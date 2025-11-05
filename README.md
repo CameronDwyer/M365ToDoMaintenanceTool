@@ -115,20 +115,15 @@ The application authenticates via browser (OAuth 2.0), retrieves your task lists
 - No data is stored locally - all operations are against Microsoft's API
 - Uses delegated permissions (operates in your user context)
 
-## Disclaimer and License
+## License
+
+This project is licensed under the **MIT-0 License** (MIT No Attribution) - see the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
 
 **IMPORTANT: USE AT YOUR OWN RISK**
 
-This tool permanently deletes completed tasks from Microsoft To-Do. Once deleted, tasks cannot be recovered.
-
-Key points:
-- This software is provided as-is without warranty
-- You are solely responsible for any data loss
-- Always review the task list before confirming deletion
-- Test with DryRun mode first
-- Ensure you have proper backups if needed
-
-By using this software, you accept full responsibility for any consequences.
+This tool permanently deletes completed tasks from Microsoft To-Do. Once deleted, tasks cannot be recovered. This software is provided as-is without warranty of any kind. You are solely responsible for any data loss. Always review the task list before confirming deletion and test with DryRun mode first.
 
 ---
 
