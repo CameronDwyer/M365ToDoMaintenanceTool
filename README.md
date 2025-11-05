@@ -18,7 +18,7 @@ Before running the application, you need to create an Azure AD app registration:
 2. Navigate to **Azure Active Directory** → **App registrations**
 3. Click **New registration**
 4. Fill in the details:
-   - **Name**: `Microsoft To-Do Maintenance Tool` (or your preferred name)
+   - **Name**: `To-Do Maintenance Tool` (or your preferred name)
    - **Supported account types**: Select "Accounts in this organizational directory only" (or "Accounts in any organizational directory" if multi-tenant)
    - **Redirect URI**: Select "Public client/native (mobile & desktop)" and enter `http://localhost`
 5. Click **Register**
